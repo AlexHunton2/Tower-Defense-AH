@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Keeps
+*.keep
+
+# SFML Library 
+**/external
+
+# VSCode
+**/.vscode
+
