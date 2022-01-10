@@ -37,6 +37,9 @@
 # SFML Library 
 **/external
 
+# Build
+**/build
+
 # VSCode
 **/.vscode
 
